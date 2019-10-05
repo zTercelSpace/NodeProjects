@@ -1,0 +1,19 @@
+{
+  "name": "demo001",
+  "version": "1.0.0",
+  "main": "demo001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ztercel",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "path": "^0.12.7",
+    "qr-image": "^3.2.0"
+  }
+}
